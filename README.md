@@ -22,7 +22,7 @@ A Python-based **Stock Market Analysis Tool** with:
 ## 📦 Installation  
 
 ```bash
-git clone https://github.com/yourusername/stock-market-analyzer.git
+git clone (https://github.com/aryanpatel2121/stock-market-analyzer)
 cd stock-market-analyzer
 python -m venv my_env
 source my_env/bin/activate   # (Mac/Linux)
