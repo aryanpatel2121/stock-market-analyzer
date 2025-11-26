@@ -30,6 +30,11 @@ my_env\Scripts\activate      # (Windows)
 pip install -r requirements.txt
 ```
 
+
+for view :
+
+https://stockmarket-analyzer.streamlit.app/
+
 ---
 
 ## 🖥️ Usage  
